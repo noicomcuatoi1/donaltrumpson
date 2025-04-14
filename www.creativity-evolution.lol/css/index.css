@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #272727;
+    background-color: #38055a;
 
 }
 
@@ -92,7 +92,7 @@ body {
     font-family: 'mabook';
     font-size: 3.5rem;
     font-weight: normal;
-    color: #990a0a;
+    color: #38055a;
     letter-spacing: 2px;
 }
 
@@ -117,14 +117,14 @@ body {
     font-size: 2rem;
     font-family: 'mabook';
     border: 3px solid #141414;
-    color: #dac938;
+    color: #38055a;
     letter-spacing: 2px;
 
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 0.2rem;
-    background-color: rgb(156, 8, 8);
+    background-color: rgb(255, 255, 255);
 }
 
 
@@ -187,7 +187,7 @@ body {
     font-family: 'mabook';
     font-weight: normal;
     letter-spacing: 3px;
-    color: #990909;
+    color: #38055a;
 }
 .head .hero h1::after {
     position: absolute;
@@ -208,7 +208,7 @@ body {
 .socials .social {
     width: 80px;
     height: 80px;
-    background-color: #910808;
+    background-color: #38055a;
     padding: 0 1rem;
 
     display: flex;
@@ -309,7 +309,7 @@ body {
     width: 250px;
     height: 20px;
     border-radius: 100px;
-    background-color: #B5B589;
+    background-color: #181806;
 }
 
 @keyframes spin {
@@ -441,7 +441,7 @@ body {
     padding: 7rem 8% 0 8%;
     width: 100%;
     gap: 1.5rem;
-    background-color: #ccbf0e;
+    background-color: #660956;
 }
 
 .htb .heading ,
@@ -536,7 +536,7 @@ body {
     padding: 7rem 8%;
     width: 100%;
     gap: 1.5rem;
-    background-color: #1087b6;
+    background-color: #150222;
 }
 
 .memes {
